@@ -12,7 +12,8 @@ public class Library {
         System.out.println("----------Hello, This is our Library management system----------"
                 + "\n 1. log in as a Head librarian"
                 + "\n 2. log in as a Librarian"
-                + "\n 3. log in as a Member "
+                + "\n 3. log in as a Member " +
+                  "\n TESTING GIT"
                 + "\n Answer: ");
         Scanner s = new Scanner(System.in);
         int input = s.nextInt();
